@@ -3,23 +3,11 @@
 ## 1. Use Case
 ![나만의 항해 블로그 백엔드 서버 만들기 유스케이스 다이어그램 ver 2 230627 drawio](https://github.com/HaenaCho01/myVoyageBlogVer2/assets/131599243/ec684629-84fc-4416-aaca-f827d6451db2)
 
-
-
-
-<br/>
-<br/>
-
-
-
 <br/>
 <br/>
 
 ## 2. ERD
 ![나만의 항해 블로그 백엔드 서버 만들기 erd ver 2 230629 drawio](https://github.com/HaenaCho01/myVoyageBlogVer2/assets/131599243/8de88e54-f431-4ee2-92ff-0d04fcf0283c)
-
-
-
-
 
 <br/>
 <br/>
@@ -27,6 +15,4 @@
 ## 3. API 명세서
 https://documenter.getpostman.com/view/27924273/2s93z9a2B8
 
-
-<br/>
 <br/>
