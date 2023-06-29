@@ -9,9 +9,6 @@
 ## 2. ERD
 ![나만의 항해 블로그 백엔드 서버 만들기 erd ver 2 230629 drawio](https://github.com/HaenaCho01/myVoyageBlogVer2/assets/131599243/5ce7672c-1793-4f18-bc35-427dc7de2350)
 
-<br/>
-<br/>
-
 ## 3. API 명세서
 https://documenter.getpostman.com/view/27924273/2s93z9a2B8
 
